@@ -31,20 +31,20 @@
         <input id="i" type="text">
         <p>Insurance Provider:</p>
          
-        <input type="checkbox" id ="provider1"/> Provider1
+        <!-- <input type="checkbox" id ="provider1"/> Provider1
         <input type="checkbox" id ="provider1"/> Provider2
         <input type="checkbox" id ="provider1"/> Provider3
-        <input type="checkbox" id ="provider1"/> Provider4
+        <input type="checkbox" id ="provider1"/> Provider4 -->
 
 
         
-        <!-- <select style="width:100%">
+        <select style="width:100%">
             <option value="1">Select Provider</option>
             <option value="2">Provider 1</option>
             <option value="3">Provider 2</option>
             <option value="4">Provider 3</option>
             <option value="5">Provider 4</option>
-        </select> -->
+        </select>
         <p>Insurance Policy Number:</p>
         <input id="i"  type="number">
 
